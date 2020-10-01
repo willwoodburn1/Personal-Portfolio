@@ -1,0 +1,137 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.dropdown {
+    color: blue;
+}
+
+footer {
+    /* margin-bottom: 0px; */
+    width: 100%;
+    
+}
+
+#navbarNav {
+    margin-left: 900px;
+}
+
+.nav-item {
+    padding-left: 20px;
+}
+
+.box {
+    margin-top: 10px;
+    padding: 20px;  
+}
+
+#leftTopContainer {
+    padding: 20px;  
+    background-color: white;
+    margin-left: 15px;
+    
+}
+
+#leftTopContent {
+    padding-top: 15px;
+    /* height: 248px; */
+    background-color: lightslategray;
+    text-align: center;
+    padding-bottom: 85px;
+
+}
+
+
+
+
+
+#leftBottomContainer {
+    padding: 20px; 
+    background-color: white;
+    margin-left: 15px;
+    /* height: 40%;    */
+    /* top: 51%;
+    /* background-color: lightslategray; */
+}
+
+#leftBottomContent {
+    padding-top: 15px;
+    /* height: 248px; */
+    background-color: lightslategray;
+    text-align: center;
+    padding-bottom: 76px;
+
+}
+
+
+#rightContainer {
+    padding: 20px;
+    padding-bottom: 21px;
+    margin-bottom: 10px;
+    margin-right: 5px;
+    /* width: 34%; */
+    /* margin-left: 66%; */
+}
+
+#brandStatement {
+    padding-top: 15px;
+    background-color: lightslategray;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 27px;
+    
+   
+}
+
+
+#middleContainer {
+    padding: 20px;
+    margin-left: 10px;
+   
+    /* width: 34%; */
+    /* margin-left: 31%; */
+}
+
+#imageDisplay {
+    background-color: lightslategray;
+    padding-bottom: 236px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#middleText {
+    padding-top: 15px;
+    text-align: center;
+    
+}
+
+.bodyContent {      
+    background-color: white;
+}
+
+#footerText {
+    margin-left: 43.5%;
+    color: lightslategray;
+   
+}
+
+
+.newImage {
+    max-width: 100%;
+    margin-top: 150px;
+   
+}
+
+h3 {
+    font-family: serif;
+}
+
+.nav-link {
+    color: blue;
+}
+
+
+
+
